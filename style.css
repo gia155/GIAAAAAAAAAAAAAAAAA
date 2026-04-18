@@ -23,4 +23,26 @@ img {
     max-width: 400px;
     border-radius: 10px;
 }
+.navbar{
+    border:none;
+    background:#b3ecff;
+}
+.navbar-brand
+    color:#00bfff !important;
+    font-size:28px;
+    font-weight:bold;
+    }
+.navbar-nav li a{
+    color:DeepSkyBlue !important;
+    font-size:18px;
+    transition:0.3s;
+    }
+.navbar-nav li a:hover{
+    background:#80ffff !important;
+    color:Aqua !important;
+    border-radius:5px;
+    }
+    
+    
 
+    
