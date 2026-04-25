@@ -22,6 +22,8 @@ img {
     width: 100%;
     max-width: 400px;
     border-radius: 10px;
+      display: flex;
+  justify-content: center;
 }
 .navbar{
     border:none;
@@ -52,10 +54,5 @@ body{
     margin: 0 auto;
 }
 
-#mainimage {
-  display: flex;
-  justify-content: center;
-}
-    
 
     
