@@ -42,6 +42,19 @@ img {
     color:Aqua !important;
     border-radius:5px;
     }
+body{
+    background: linear-gradient(#66ccff, #003366);
+    color: #003366;
+}
+
+img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+}
+
     
     
 
