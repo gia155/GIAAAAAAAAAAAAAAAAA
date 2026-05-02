@@ -84,6 +84,12 @@ a {
 a:hover {
   text-decoration: underline;
 }
+.extra-img {
+  max-width: 250px;
+  display: block;
+  margin: 20px auto;
+  border-radius: 12px;
+}
 
 
     
