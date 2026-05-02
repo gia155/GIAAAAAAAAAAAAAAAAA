@@ -96,6 +96,12 @@ a:hover {
   margin: 20px auto;
   border-radius: 12px;
 }
+.sigma-img {
+  max-width: 220px;
+  display: block;
+  margin: 20px auto;
+  border-radius: 12px;
+}
 
 
 
